@@ -1,2 +1,1 @@
-# showcase
-Website for me
+https://khalafnasirov.github.io/showcase
